@@ -1,0 +1,43 @@
+body{
+    background-color: #6a9ced;
+}
+
+#dados{
+    text-align: center;
+    margin: 0 auto;
+    width: 60%;
+    background-color: white;
+    -webkit-box-shadow: 0px 1px 3px 0px black;
+    -moz-box-shadow: 0px 1px 3px 0px black;
+    box-shadow: 0px 1px 3px 0px black;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+#jogar{
+    margin-top: 10px;
+    width: 100px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+h1{
+    margin-top: 60px;
+}
+
+
+
